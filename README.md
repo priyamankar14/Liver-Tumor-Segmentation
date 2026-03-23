@@ -72,17 +72,20 @@ cd liver-tumor-segmentation
 
 2. Install Dependencies
 pip install -r requirements.txt
+
 3. Run the Project
 python train.py
 
+---
 
-📌 Future Scope
+## 📌 Future Scope
 Real-time deployment
 Integration with healthcare systems
 Use of advanced architectures (Transformers)
 Explainable AI integration
 
+---
 
-📜 License
+##📜 License
 
 For academic and research use only.
